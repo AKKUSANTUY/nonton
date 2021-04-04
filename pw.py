@@ -2,11 +2,11 @@ import os, sys
 
 print ("\033[30;1mSilahkan Masukkan Username & Password Scriptnya")
 
-print ("\033[33;1matau silahkan Hubungi Author ")
+print ("\033[33;1matau silahkan Hubungi Author +6282134566596 ")
 
-username = 'hackers70'      
+username = 'SANTRI'      
 
-password = 'pinter777'
+password = 'CYBER'
 
 
 
@@ -30,7 +30,7 @@ def main():
 
 		if pwd == password:
 
-			print "\033[32;1mAkhirnya password bener juga tuh", 
+			print "\033[32;1mAkhirnya password bener juga cuk", 
 
 			sys.exit()
 
@@ -38,9 +38,9 @@ def main():
 
 		else:
 
-			print "\033[31;1mPasswordnya salah woiii... [?]\033[33;1m"
+			print "\033[31;1mPasswordnya salah cuk... [?]\033[33;1m"
 
-			print "Silahkan segera log-in kembali...!!\n"
+			print "Silahkan segera log-in kembali cuk...!!\n"
 
 			restart()
 
@@ -48,9 +48,9 @@ def main():
 
 	else:
 
-		print "\033[30;1mUsernamenya salah woiii... [?]\033[31;1m"
+		print "\033[30;1mUsernamenya salah cuk... [?]\033[31;1m"
 
-		print "Silahkan segera log-in kembali...!!\n"
+		print "Silahkan segera log-in kembali cuk...!!\n"
 
 		restart()
 
